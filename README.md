@@ -1,6 +1,8 @@
 # Codigos-Julia
 Scripts Julia para uso no JuliaBox <br>
+<!---
 ![zemaria](https://user-images.githubusercontent.com/67014817/150675659-b3bab9ac-f155-48da-892b-f9793c3c7d21.jpg)
+-->
 
 | Módulo | README |
 | ------ | ------ |

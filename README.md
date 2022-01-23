@@ -1,5 +1,6 @@
 # Codigos-Julia
-Scripts Julia para uso no JuliaBox
+Scripts Julia para uso no JuliaBox <br>
+![Screenshot](zemaria.jpg)
 
 | Módulo | README |
 | ------ | ------ |

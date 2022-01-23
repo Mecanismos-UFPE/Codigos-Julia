@@ -1,6 +1,6 @@
 # Codigos-Julia
 Scripts Julia para uso no JuliaBox <br>
-![Screenshot](https://github.com/Mecanismos-UFPE/Codigos-Julia/issues/1#issue-1111840507)
+![img](https://github.com/Mecanismos-UFPE/Codigos-Julia/issues/1#issue-1111840507)
 
 | Módulo | README |
 | ------ | ------ |
